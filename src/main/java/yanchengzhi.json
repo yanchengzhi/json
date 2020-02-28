@@ -1,0 +1,14 @@
+{
+	"name" : "鄢承志",
+	"age" : 25,
+	"birth" : "1995-09-18",
+	"birthday" : "1995-09-18",
+	"address" : "湖北",
+	"has_girlfriend" : false,
+	"like" : ["唱歌","登山","旅行","阅读"],
+	"featrue" : ["有点高","瘦瘦的","小清新"],
+	"love" : ["河图","winkey诗","银临姐姐"],
+	"car" : null,
+	"house" : null,
+	"comment" : "JSON中是没有注释的"
+}
